@@ -1,0 +1,3 @@
+@HOST = https://pokeapi.co/api/v2
+
+GET {{HOST}}/pokemon HTTP/1.1
